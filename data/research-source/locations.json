@@ -1,0 +1,338 @@
+{
+  "east-auckland": {
+    "lat": -36.8490839,
+    "lng": 174.7592156,
+    "source": "OpenStreetMap Nominatim point for East, 63-67 Nelson Street (https://nominatim.openstreetmap.org/search?q=63-67%20Nelson%20Street%2C%20Auckland%201010&format=jsonv2&limit=3&addressdetails=1); address corroborated by official Sudima listing https://www.sudimahotels.com/en/hotels/auckland-city/",
+    "confidence": "high",
+    "checkedAt": "2026-10-09T23:07Z"
+  },
+  "twofold-parnell": {
+    "lat": -36.8546211,
+    "lng": 174.780165,
+    "source": "OpenStreetMap Nominatim named TwoFold BrewPub at 196 Parnell Road (https://nominatim.openstreetmap.org/search?q=196%20Parnell%20Road%2C%20Auckland%201052&format=jsonv2&limit=3&addressdetails=1); official venue address https://www.twofold.beer/",
+    "confidence": "high",
+    "checkedAt": "2026-10-09T23:07Z"
+  },
+  "mondays-wholefoods": {
+    "lat": -36.872216,
+    "lng": 174.7437268,
+    "source": "OpenStreetMap Nominatim house-number result for 503 New North Road, Kingsland (https://nominatim.openstreetmap.org/search?q=503%20New%20North%20Road%2C%20Auckland%201021&format=jsonv2&limit=3&addressdetails=1); note OSM currently labels this address Ciao Belli, so target storefront identity/address needs independent confirmation.",
+    "confidence": "low",
+    "checkedAt": "2026-10-09T23:07Z"
+  },
+  "janken-jervois": {
+    "lat": -36.8453919,
+    "lng": 174.7374384,
+    "source": "OpenStreetMap Nominatim house-number result for 158 Jervois Road (https://nominatim.openstreetmap.org/search?q=158%20Jervois%20Road%2C%20Auckland%201011&format=jsonv2&limit=3&addressdetails=1); branch/address corroborated by official ordering page https://www.jankenjapanese.com/order-online",
+    "confidence": "high",
+    "checkedAt": "2026-10-09T23:07Z"
+  },
+  "banzai-dominion-road": {
+    "lat": -36.8885852,
+    "lng": 174.7467869,
+    "source": "OpenStreetMap Nominatim house-number result for 583 Dominion Road, Mount Eden (https://nominatim.openstreetmap.org/search?q=583%20Dominion%20Road%2C%20Auckland%201041&format=jsonv2&limit=3&addressdetails=1)",
+    "confidence": "high",
+    "checkedAt": "2026-10-09T23:07Z"
+  },
+  "bian-takapuna": {
+    "lat": -36.7881477,
+    "lng": 174.7727174,
+    "source": "OpenStreetMap Nominatim named address point at 33 Hurstmere Road (https://nominatim.openstreetmap.org/search?q=33%20Hurstmere%20Road%2C%20Takapuna%2C%20Auckland&format=jsonv2&limit=5&addressdetails=1); Bian's official locations page specifies Shop 2, 33-45 Hurstmere Road: https://www.biansushi.co.nz/contact-infomation",
+    "confidence": "medium",
+    "checkedAt": "2026-10-09T23:07Z"
+  },
+  "thirteen50-auckland-airport": {
+    "lat": -37.0040424,
+    "lng": 174.7832731,
+    "source": "OpenStreetMap Nominatim named Novotel Auckland Airport point at 35 Tom Pearce Drive (https://nominatim.openstreetmap.org/search?q=35%20Tom%20Pearce%20Drive%2C%20Auckland%20Airport%2C%20Auckland%202022&format=jsonv2&limit=3&addressdetails=1); THIRTEEN50 official venue is located in Novotel: https://thirteen50kitchen.com/",
+    "confidence": "high",
+    "checkedAt": "2026-10-09T23:07Z"
+  },
+  "gojo-new-lynn": {
+    "lat": -36.9094627,
+    "lng": 174.6815717,
+    "source": "OpenStreetMap Nominatim house-number result for 15 Totara Avenue, New Lynn (https://nominatim.openstreetmap.org/search?q=15%20Totara%20Avenue%2C%20New%20Lynn%2C%20Auckland&format=jsonv2&limit=5&addressdetails=1); exact branch address corroborated by Gojo official contact page https://gojoeatery.co.nz/contact/",
+    "confidence": "high",
+    "checkedAt": "2026-10-09T23:07Z"
+  },
+  "pickles-cafe-rosedale": {
+    "lat": -36.7429871,
+    "lng": 174.7301687,
+    "source": "OpenStreetMap Nominatim house-number point for 1 Antares Place, Rosedale (https://nominatim.openstreetmap.org/search?q=1%20Antares%20Place%2C%20Rosedale%2C%20Auckland%200632&format=jsonv2&limit=3&addressdetails=1); address supplied by catalogue, OSM displays this address as postcode 0732.",
+    "confidence": "medium",
+    "checkedAt": "2026-10-09T23:07Z"
+  },
+  "postal-service-grey-lynn": {
+    "lat": -36.8652565,
+    "lng": 174.7377436,
+    "source": "OpenStreetMap Nominatim house-number point for 537 Great North Road, Grey Lynn (https://nominatim.openstreetmap.org/search?q=537%20Great%20North%20Road%2C%20Grey%20Lynn%2C%20Auckland%201021&format=jsonv2&limit=3&addressdetails=1).",
+    "confidence": "high",
+    "checkedAt": "2026-10-09T23:07Z"
+  },
+  "cafe-botannix-pakuranga": {
+    "lat": -36.89868626103177,
+    "lng": 174.9013736086174,
+    "source": "Café Botannix official website lists this Pakuranga branch and its coordinates: https://www.cafebotannix.co.nz/cafe/pakuranga/.",
+    "confidence": "high",
+    "checkedAt": "2026-10-09T23:07Z"
+  },
+  "portage-bar-riverhead": {
+    "lat": -36.7592417,
+    "lng": 174.5976896,
+    "source": "OpenStreetMap Nominatim named Portage bar at 33 York Terrace, Riverhead (https://nominatim.openstreetmap.org/search?q=33%20York%20Terrace%2C%20Riverhead%2C%20Auckland%200820&format=jsonv2&limit=3&addressdetails=1).",
+    "confidence": "high",
+    "checkedAt": "2026-10-09T23:07Z"
+  },
+  "vondel-devonport": {
+    "lat": -36.8305947,
+    "lng": 174.7980612,
+    "source": "OpenStreetMap Nominatim named Vondel restaurant at 8 Victoria Road, Devonport (https://nominatim.openstreetmap.org/search?q=8%20Victoria%20Road%2C%20Devonport%2C%20Auckland%200624&format=jsonv2&limit=3&addressdetails=1).",
+    "confidence": "high",
+    "checkedAt": "2026-10-09T23:07Z"
+  },
+  "the-banker-east-tamaki": {
+    "lat": -36.9367303,
+    "lng": 174.874714,
+    "source": "OpenStreetMap Nominatim house-number point at 60 Highbrook Drive (https://nominatim.openstreetmap.org/search?q=60%20Highbrook%20Drive%2C%20East%20Tamaki%2C%20Auckland%202013&format=jsonv2&limit=3&addressdetails=1); official Highbrook directory places The Banker at Ground Floor, Quest Building, 60 Highbrook Drive https://www.highbrook.co.nz/our-businesses/the-banker/.",
+    "confidence": "medium",
+    "checkedAt": "2026-10-09T23:07Z"
+  },
+  "westie-bistro-glendene": {
+    "lat": -36.8872371,
+    "lng": 174.6441635,
+    "source": "OpenStreetMap Nominatim named Westie Bistro, with Great North Road/Glendene location (https://nominatim.openstreetmap.org/search?q=Westie%20Bistro%2C%20202%20Great%20North%20Road%2C%20Glendene%2C%20Auckland&format=jsonv2&limit=5&addressdetails=1); official venue address https://www.westiebistro.co.nz/.",
+    "confidence": "high",
+    "checkedAt": "2026-10-09T23:07Z"
+  },
+  "franklin-beachlands": {
+    "lat": -36.889609,
+    "lng": 175.0108469,
+    "source": "OpenStreetMap Nominatim house-number point for 129 Beachlands Road, Beachlands (https://nominatim.openstreetmap.org/search?q=129%20Beachlands%20Road%2C%20Beachlands%2C%20Auckland%202018&format=jsonv2&limit=3&addressdetails=1); venue address as listed in catalogue.",
+    "confidence": "medium",
+    "checkedAt": "2026-10-09T23:07Z"
+  },
+  "matakana-village-pub": {
+    "lat": -36.3521572,
+    "lng": 174.7172515,
+    "source": "OpenStreetMap Nominatim house-number point for 11 Matakana Valley Road, Matakana (https://nominatim.openstreetmap.org/search?q=11%20Matakana%20Valley%20Road%2C%20Matakana%200985&format=jsonv2&limit=3&addressdetails=1); venue address as listed in catalogue.",
+    "confidence": "medium",
+    "checkedAt": "2026-10-09T23:07Z"
+  },
+  "prego-ponsonby": {
+    "lat": -36.8526813,
+    "lng": 174.7448518,
+    "source": "OpenStreetMap Nominatim named Prego restaurant at 226 Ponsonby Road (https://nominatim.openstreetmap.org/search?q=226%20Ponsonby%20Road%2C%20Ponsonby%2C%20Auckland&format=jsonv2&limit=3&addressdetails=1).",
+    "confidence": "high",
+    "checkedAt": "2026-10-09T23:07Z"
+  },
+  "queens-head-auckland-cbd": {
+    "lat": -36.8536592,
+    "lng": 174.7635441,
+    "source": "OpenStreetMap Nominatim address point for 396 Queen Street (https://nominatim.openstreetmap.org/search?q=396%20Queen%20Street%2C%20Auckland%201010&format=jsonv2&limit=3&addressdetails=1); Queen's Head official contact confirms the restaurant is in Four Points by Sheraton at this address https://www.queensheadbar.co.nz/contact-location.",
+    "confidence": "medium",
+    "checkedAt": "2026-10-09T23:07Z"
+  },
+  "alderman-henderson": {
+    "lat": -36.8770666,
+    "lng": 174.6347818,
+    "source": "OpenStreetMap Nominatim house-number point for 22 Alderman Drive, Henderson (https://nominatim.openstreetmap.org/search?q=22%20Alderman%20Drive%2C%20Henderson%2C%20Auckland%200612&format=jsonv2&limit=3&addressdetails=1); venue address as listed in catalogue.",
+    "confidence": "medium",
+    "checkedAt": "2026-10-09T23:07Z"
+  },
+  "kings-garden-cafe-henderson": {
+    "lat": -36.8565955,
+    "lng": 174.6355701,
+    "source": "OpenStreetMap Nominatim named Kings Garden Cafe at 224 Universal Drive (https://nominatim.openstreetmap.org/search?q=224%20Universal%20Drive%2C%20Henderson%2C%20Auckland%200610&format=jsonv2&limit=3&addressdetails=1).",
+    "confidence": "high",
+    "checkedAt": "2026-10-09T23:07Z"
+  },
+  "thaiger-grey-lynn": {
+    "lat": -36.8638325,
+    "lng": 174.7371059,
+    "source": "OpenStreetMap Nominatim named Thaiger restaurant at 2 Surrey Crescent, Grey Lynn (https://nominatim.openstreetmap.org/search?q=2%20Surrey%20Crescent%2C%20Grey%20Lynn%2C%20Auckland%201021&format=jsonv2&limit=3&addressdetails=1).",
+    "confidence": "high",
+    "checkedAt": "2026-10-09T23:07Z"
+  },
+  "gorilla-kitchen-kroad": {
+    "lat": -36.8580843,
+    "lng": 174.7607629,
+    "source": "OpenStreetMap Nominatim named Gorilla Kitchen point at 146B Karangahape Road (https://nominatim.openstreetmap.org/search?q=146B%20Karangahape%20Road%2C%20Auckland%201010&format=jsonv2&limit=3&addressdetails=1); OSM labels this POI vacant, so venue current status/address deserves caution.",
+    "confidence": "medium",
+    "checkedAt": "2026-10-09T23:07Z"
+  },
+  "khu-khu-ponsonby": {
+    "lat": -36.853868,
+    "lng": 174.7458073,
+    "source": "OpenStreetMap Nominatim named Khu Khu at 171A Ponsonby Road (https://nominatim.openstreetmap.org/search?q=171A%20Ponsonby%20Road%2C%20Ponsonby%2C%20Auckland%201011&format=jsonv2&limit=3&addressdetails=1).",
+    "confidence": "high",
+    "checkedAt": "2026-10-09T23:07Z"
+  },
+  "khu-khu-milford": {
+    "lat": -36.7730489,
+    "lng": 174.7669771,
+    "source": "OpenStreetMap Nominatim named Khu Khu at 91 Kitchener Road, Milford (https://nominatim.openstreetmap.org/search?q=91%20Kitchener%20Road%2C%20Milford%2C%20Auckland%200620&format=jsonv2&limit=3&addressdetails=1).",
+    "confidence": "high",
+    "checkedAt": "2026-10-09T23:07Z"
+  },
+  "khu-khu-parnell": {
+    "lat": -36.8581511,
+    "lng": 174.7820511,
+    "source": "OpenStreetMap Nominatim exact 363 Parnell Road house-number point (https://nominatim.openstreetmap.org/search?q=363%20Parnell%20Road%2C%20Parnell%2C%20Auckland%201053&format=jsonv2&limit=3&addressdetails=1); venue address as listed in catalogue.",
+    "confidence": "medium",
+    "checkedAt": "2026-10-09T23:07Z"
+  },
+  "revive-auckland-central": {
+    "lat": -36.8472203,
+    "lng": 174.7646607,
+    "source": "OpenStreetMap Nominatim named Revive Vegan Cafe at 24 Wyndham Street (https://nominatim.openstreetmap.org/search?q=24%20Wyndham%20Street%2C%20Auckland%20Central%201010&format=jsonv2&limit=3&addressdetails=1).",
+    "confidence": "high",
+    "checkedAt": "2026-10-09T23:07Z"
+  },
+  "khun-pun-albany": {
+    "lat": -36.7321789,
+    "lng": 174.7096337,
+    "source": "OpenStreetMap Nominatim named Khun Pun Thai Restaurant at 5/7 Corinthian Drive, Albany (https://nominatim.openstreetmap.org/search?q=5%2F7%20Corinthian%20Drive%2C%20Albany%2C%20Auckland%200632&format=jsonv2&limit=3&addressdetails=1).",
+    "confidence": "high",
+    "checkedAt": "2026-10-09T23:07Z"
+  },
+  "khu-khu-cbd": {
+    "lat": -36.8450832,
+    "lng": 174.7676068,
+    "source": "OpenStreetMap Nominatim point for 23 Customs Street East (https://nominatim.openstreetmap.org/search?q=23%20Customs%20Street%20East%2C%20Auckland%201010&format=jsonv2&limit=5&addressdetails=1); Khu Khu official menu gives Shop 7/23 Customs Street East, Snickel Lane https://www.khukhu.co.nz/khu-khu-cbd-menu.",
+    "confidence": "medium",
+    "checkedAt": "2026-10-09T23:07Z"
+  },
+  "carmen-jones-kroad": {
+    "lat": -36.8581248,
+    "lng": 174.7565346,
+    "source": "Concrete Playground listing provides coordinates for Carmen Jones at 382 Karangahape Road https://concreteplayground.com/auckland/bars/carmen-jones; current official site confirms same address https://www.carmenjones.nz/.",
+    "confidence": "medium",
+    "checkedAt": "2026-10-09T23:07Z"
+  },
+  "swansons-cbd": {
+    "lat": -36.8461778,
+    "lng": 174.765025,
+    "source": "OpenStreetMap Nominatim house-number range point for 12-26 Swanson Street (https://nominatim.openstreetmap.org/search?q=12-26%20Swanson%20Street%2C%20Auckland%20Central%201010&format=jsonv2&limit=3&addressdetails=1); Swansons official location page confirms this address https://www.swansons.co.nz/?page_id=38.",
+    "confidence": "medium",
+    "checkedAt": "2026-10-09T23:07Z"
+  },
+  "mudita-ponsonby": {
+    "lat": -36.8520696,
+    "lng": 174.7447959,
+    "source": "OpenStreetMap Nominatim named Mudita at 234 Ponsonby Road (https://nominatim.openstreetmap.org/search?q=234%20Ponsonby%20Road%2C%20Auckland%201011&format=jsonv2&limit=3&addressdetails=1).",
+    "confidence": "high",
+    "checkedAt": "2026-10-09T23:07Z"
+  },
+  "pink-broccoli-remuera": {
+    "lat": -36.8801918,
+    "lng": 174.8120551,
+    "source": "OpenStreetMap Nominatim named Pink broccoli at 614 Remuera Road (https://nominatim.openstreetmap.org/search?q=614%20Remuera%20Road%2C%20Remuera%2C%20Auckland%201050&format=jsonv2&limit=3&addressdetails=1).",
+    "confidence": "high",
+    "checkedAt": "2026-10-09T23:07Z"
+  },
+  "onslow-auckland-cbd": {
+    "lat": -36.8476796,
+    "lng": 174.7699221,
+    "source": "OpenStreetMap Nominatim named Onslow restaurant at 9 Princes Street (https://nominatim.openstreetmap.org/search?q=9%20Princes%20Street%2C%20Auckland%201010&format=jsonv2&limit=3&addressdetails=1).",
+    "confidence": "high",
+    "checkedAt": "2026-10-09T23:07Z"
+  },
+  "tiger-bar-mount-roskill": {
+    "lat": -36.9012845,
+    "lng": 174.7218127,
+    "source": "OpenStreetMap Nominatim SOHO Hotel building point at 180 Stoddard Road (https://nominatim.openstreetmap.org/search?q=SOHO%20Hotel%2C%20180%20Stoddard%20Road%2C%20Auckland%201041&format=jsonv2&limit=3&addressdetails=1); catalogue places Tiger Bar & Restaurant in this hotel.",
+    "confidence": "medium",
+    "checkedAt": "2026-10-09T23:07Z"
+  },
+  "bellini-auckland-cbd": {
+    "lat": -36.8397472,
+    "lng": 174.7658542,
+    "source": "OpenStreetMap Nominatim Hilton Auckland point at 147 Quay Street / Princes Wharf (https://nominatim.openstreetmap.org/search?q=Hilton%20Auckland%2C%20147%20Quay%20Street%2C%20Princes%20Wharf%2C%20Auckland&format=jsonv2&limit=3&addressdetails=1); catalogue places Bellini on the ground floor of this hotel.",
+    "confidence": "medium",
+    "checkedAt": "2026-10-09T23:07Z"
+  },
+  "andsushi-newmarket": {
+    "lat": -36.8687987,
+    "lng": 174.7759196,
+    "source": "OpenStreetMap Nominatim named &Sushi at 12 Teed Street, Newmarket (https://nominatim.openstreetmap.org/search?q=12%20Teed%20Street%2C%20Newmarket%2C%20Auckland%201023&format=jsonv2&limit=3&addressdetails=1).",
+    "confidence": "high",
+    "checkedAt": "2026-10-09T23:07Z"
+  },
+  "andsushi-eastridge": {
+    "lat": -36.8608338,
+    "lng": 174.8301183,
+    "source": "OpenStreetMap Nominatim point at 215 Kepa Road, address of Eastridge Shopping Centre (https://nominatim.openstreetmap.org/search?q=Eastridge%20Shopping%20Centre%2C%20215%20Kepa%20Road%2C%20Auckland%201071&format=jsonv2&limit=3&addressdetails=1); branch is within Eastridge, so pin is centre address not verified unit location.",
+    "confidence": "medium",
+    "checkedAt": "2026-10-09T23:07Z"
+  },
+  "sunflower-thai-cbd": {
+    "lat": -36.8485882,
+    "lng": 174.7664882,
+    "source": "OpenStreetMap Nominatim named Sunflower Thai Vegetarian Restaurant at 50 High Street (https://nominatim.openstreetmap.org/search?q=Sunflower%20Thai%20Vegetarian%20Restaurant%20Auckland%20High%20Street&format=jsonv2&limit=3&addressdetails=1).",
+    "confidence": "high",
+    "checkedAt": "2026-10-09T23:07Z"
+  },
+  "auckland-art-gallery-cafe": {
+    "lat": -36.851261,
+    "lng": 174.7663713,
+    "source": "OpenStreetMap Nominatim gallery building point at 1 Kitchener Street (https://nominatim.openstreetmap.org/search?q=Auckland%20Art%20Gallery%2C%201%20Kitchener%20Street%2C%20Auckland%201010&format=jsonv2&limit=3&addressdetails=1); catalogue places café inside gallery; pin is gallery building, not a separately mapped café point.",
+    "confidence": "medium",
+    "checkedAt": "2026-10-09T23:07Z"
+  },
+  "andsushi-city-works-depot": {
+    "lat": -36.8501582,
+    "lng": 174.7582085,
+    "source": "OpenStreetMap Nominatim City Works Depot venue complex building point at 90 Wellesley Street West (https://nominatim.openstreetmap.org/search?q=City%20Works%20Depot%20Auckland&format=jsonv2&limit=3&addressdetails=1); catalogue identifies &Sushi inside Shed 4A, so point is the complex centroid, not the specific unit.",
+    "confidence": "medium",
+    "checkedAt": "2026-10-09T23:07Z"
+  },
+  "andsushi-carlton-gore": {
+    "lat": -36.8653982,
+    "lng": 174.7766836,
+    "source": "OpenStreetMap Nominatim point for 123 Carlton Gore Road, Newmarket (https://nominatim.openstreetmap.org/search?q=123%20Carlton%20Gore%20Road%2C%20Newmarket%2C%20Auckland&format=jsonv2&limit=3&addressdetails=1); OSM currently labels this address New Century Cafe, so verify &Sushi current storefront identity.",
+    "confidence": "low",
+    "checkedAt": "2026-10-09T23:07Z"
+  },
+  "ragtime-kingsland": {
+    "lat": -36.8718678,
+    "lng": 174.744887,
+    "source": "OpenStreetMap Nominatim exact address point at 467 New North Road (https://nominatim.openstreetmap.org/search?q=467%20New%20North%20Road%2C%20Kingsland%2C%20Auckland&format=jsonv2&limit=3&addressdetails=1); Ragtime official site confirms address https://www.ragtimecafe.co.nz/. OSM currently lists a different business at that street number, so this coordinate is low confidence for Ragtime itself.",
+    "confidence": "low",
+    "checkedAt": "2026-10-09T23:19Z"
+  },
+  "bowld-west-city": {
+    "lat": -36.88093,
+    "lng": 174.63278,
+    "source": "Mapcarta/OpenStreetMap WestCity Waitakere shopping-centre building point, the mall housing BOWL’D West City (https://mapcarta.com/W30910417); venue address is in the centre; pin represents mall building rather than shop unit.",
+    "confidence": "medium",
+    "checkedAt": "2026-10-09T23:19Z"
+  },
+  "mokonui-cafe-auckland-zoo": {
+    "lat": -36.86411,
+    "lng": 174.72199,
+    "source": "Mapcarta page based on OpenStreetMap for Mokonui Café, mapped as an amenity=cafe building in Auckland Zoo (https://mapcarta.com/W658696279); Auckland Zoo confirms Mokonui is The Watering Hole café https://www.aucklandzoo.co.nz/visit/tourism-operator-information.",
+    "confidence": "high",
+    "checkedAt": "2026-10-09T23:19Z"
+  },
+  "wetapunga-cafe-auckland-zoo": {
+    "lat": -36.864,
+    "lng": 174.71942,
+    "source": "Mapcarta page based on OpenStreetMap for Wētāpunga Café, mapped as an amenity=cafe building (https://mapcarta.com/W183544348); Auckland Zoo confirms the café is at the entrance plaza https://www.aucklandzoo.co.nz/wetapunga-cafe.",
+    "confidence": "high",
+    "checkedAt": "2026-10-09T23:19Z"
+  },
+  "amble-birch-manukau": {
+    "lat": -36.99489,
+    "lng": 174.86624,
+    "source": "ChargeAlong listing for Amble + Birch Café at 88 Plunket Avenue reports map coordinates -36.99489, 174.86624 https://chargealong.io/en/new-zealand/auckland/wiri/chargenet-nz/amble-birch-cafe-goodman-manukau-t2dpp3wl/; official café site confirms 88 Plunket Avenue https://www.ambleandbirchcafe.co.nz/.",
+    "confidence": "medium",
+    "checkedAt": "2026-10-09T23:19Z"
+  },
+  "andsushi-smales-farm": {
+    "lat": -36.78499,
+    "lng": 174.75402,
+    "source": "Mapcarta page based on OpenStreetMap locates Goodside retail building (https://mapcarta.com/W886408222); official Smales Farm directory identifies Goodside as the precinct at 72 Taharoto Road https://smalesfarm.co.nz/directory-map/; catalogue specifies &Sushi Unit D within Goodside. Pin is the shared building location, not a unit-level point.",
+    "confidence": "medium",
+    "checkedAt": "2026-10-09T23:19Z"
+  }
+}

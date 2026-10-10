@@ -1,0 +1,9 @@
+# Auckland pubs and restaurant vegan menu research
+
+Checked 2026-10-10. This supplemental catalogue contains 12 distinct venues, with 17 named vegan dishes. The research emphasizes West Auckland, the North Shore, and outer suburbs: Riverhead, Devonport, Albany, Glendene, Beachlands, Matakana, Henderson, East Tāmaki, and Grey Lynn, plus Ponsonby and the CBD. All item records cite an official venue menu or official menu page. No coordinates were invented and no venues were contacted.
+
+Nine dishes are explicitly paired with a GF, gluten-free, gluten-friendly, or gluten-free base claim on the same official menu: Riverhead Green Salad; The Banker Crispy Potato Rösti; Westie Bistro Crispy Cauli-Broccoli; The Matakana Pub Warm Roast Vege Salad; both Prego pizzas when ordered with the GF base; Kings Garden Cafe's Açai Bowl; and both dishes at Thaiger. Other named vegan dishes are retained with `glutenFree: false` where the menu makes no paired GF claim. `false` here means no GF support was recorded from the cited evidence, rather than asserting that a dish contains gluten.
+
+Westie Bistro's official menu PDF is dated September 2024 and is marked `needs-checking` because it may be stale. Prego's official March 2026 vegan menu explicitly offers gluten-free pizza bases on request; the requested base is recorded as a modification. The Riverhead uses “gfi” for its Green Salad, and its menu labels Pan-Fried Dumplings vegan but does not provide a GF label. Vondel calls its roast nut loaf vegan but does not individually attest to each accompaniment.
+
+High-chair availability is `unknown` across these records because I did not find explicit venue-level high-chair confirmation in the reviewed primary menu/site sources. The Alderman and Kings Garden Cafe both describe child-friendly facilities, but those statements do not establish high-chair availability. Coordinates remain null pending a separate geocoding step.

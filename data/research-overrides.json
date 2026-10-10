@@ -1,0 +1,26 @@
+[
+  {
+    "venueId": "mondays-wholefoods",
+    "dishEvidenceStatus": "needs-checking",
+    "familyNote": "Operating status/address needs checking; published menu and current listings conflict.",
+    "checkedAt": "2026-10-10",
+    "sourceChecks": [
+      {
+        "url": "https://www.ubereats.com/nz/store/mondays-wholefoods/JAbmDPgbQNGGFylbJkAILg",
+        "observation": "Current listing reports delivery unavailable. This does not establish that the venue is closed.",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://concreteplayground.com/auckland/cafes/mondays",
+        "observation": "Directory lists Mondays Wholefoods as closed. This conflicts with the possibility of a separate courtyard or 503B location and does not establish that the listed branch is permanently closed.",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://ciaobelliauckland.co.nz/",
+        "observation": "Official Ciao Belli site lists its business at 503 New North Road, Kingsland; this conflicts with the Mondays listing address but does not establish the Mondays branch identity or permanent closure.",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "coordinateDecision": "Keep coordinates null. The prior low-confidence point is not suitable for a pin."
+  }
+]

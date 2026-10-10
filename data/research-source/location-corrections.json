@@ -1,0 +1,9 @@
+{
+  "ragtime-kingsland": {
+    "lat": -36.8718678,
+    "lng": 174.744887,
+    "source": "OpenStreetMap Nominatim exact house-number result for 467 New North Road, Kingsland: https://nominatim.openstreetmap.org/search?q=467%20New%20North%20Road%2C%20Kingsland%2C%20Auckland%201021&format=jsonv2&limit=5&addressdetails=1. The current Ragtime Café menu and location page confirms 467 New North Road, Kingsland: https://www.ragtimecafe.co.nz/menu (also links to Google Maps search for Ragtime Cafe at that address). Nominatim currently labels the same house-number point Elisabeth's Chef, so confidence is medium for the exact address location and not high for a distinct entrance/unit point.",
+    "confidence": "medium",
+    "checkedAt": "2026-10-09T23:33Z"
+  }
+}

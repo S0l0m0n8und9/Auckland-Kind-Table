@@ -1,0 +1,7 @@
+[
+  {"name":"Khu Khu Eatery (Ponsonby, Milford, CBD)","address":"Multiple Auckland locations","evidenceUrl":"https://www.khukhu.co.nz/menu?menu=khu-khu-menu","reason":"Official menu confirms fully vegan and a range of gluten-free options, but the retrieved text did not reliably pair a named dish with a gluten-free label."},
+  {"name":"Revive Café","address":"Auckland Central","evidenceUrl":"https://www.revive.co.nz/pages/menu","reason":"Official weekly menu says all items vegan and that items containing gluten are marked; retrieved text did not expose a stable named dish explicitly labelled both vegan and GF."},
+  {"name":"Village Wholefoods Cafe","address":"Howick","evidenceUrl":"https://www.aucklandmeal.com/109200451834623/village_wholefoods_cafe","reason":"Secondary listing says cafe is fully gluten-free and mentions vegan treats, but did not provide a current named dish expressly both vegan and gluten-free; require primary menu verification."},
+  {"name":"Fat Kitty Cafe","address":"Dominion Road, Auckland","evidenceUrl":"https://fat-kitty-cafe.com/","reason":"Search result describes vegan and gluten-free options, but the primary site could not be retrieved and no specific dish pairing was verified."},
+  {"name":"Lola Cafe (Ellerslie/Panmure Highway)","address":"Auckland","evidenceUrl":"https://www.ubereats.com/nz/store/lola-cafe-ellerslie-panmure-highway/79OWoH6XXJOWfj14quKc8w","reason":"Search evidence conflicted between listing Vegan Bowl as VG and another menu snapshot as VE/GF; omitted until the exact current dish label is confirmed."}
+]

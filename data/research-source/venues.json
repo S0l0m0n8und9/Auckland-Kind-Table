@@ -1,0 +1,1332 @@
+[
+  {
+    "id": "east-auckland",
+    "name": "East",
+    "address": "63-67 Nelson Street, Auckland 1010",
+    "suburb": "Auckland Central",
+    "types": [
+      "restaurant"
+    ],
+    "lat": null,
+    "lng": null,
+    "website": "https://easteats.co.nz/",
+    "menuUrl": "https://easteats.co.nz/eat/",
+    "highChairs": "unknown",
+    "highChairSource": null,
+    "highChairCheckedAt": null,
+    "dishes": [
+      {
+        "name": "Typhoon Shelter Fried Rice",
+        "vegan": true,
+        "glutenFree": true,
+        "modifications": null,
+        "evidenceUrl": "https://www.ubereats.com/nz/store/east/3IScWrS8WPSWFmmSfLUNKg",
+        "excerpt": "Menu labels Typhoon Shelter Fried Rice (VG)(GF).",
+        "checkedAt": "2026-10-09",
+        "status": "menu-supported"
+      },
+      {
+        "name": "Edamame, black shiso salt",
+        "vegan": true,
+        "glutenFree": true,
+        "modifications": null,
+        "evidenceUrl": "https://www.ubereats.com/nz/store/east/3IScWrS8WPSWFmmSfLUNKg",
+        "excerpt": "Edamame (VG)(GF): black shiso salt; described as vegan and gluten free.",
+        "checkedAt": "2026-10-09",
+        "status": "menu-supported"
+      }
+    ],
+    "notes": "Restaurant's own menu describes many dishes as no-gluten-added and warns it cannot guarantee an allergen-free preparation environment. The listed dishes are labelled VG/GF in the current Uber Eats menu listing; verify service details with venue if required."
+  },
+  {
+    "id": "twofold-parnell",
+    "name": "Twofold Bistro Brewery",
+    "address": "196 Parnell Road, Auckland 1052",
+    "suburb": "Parnell",
+    "types": [
+      "gastropub",
+      "restaurant"
+    ],
+    "lat": null,
+    "lng": null,
+    "website": "https://www.twofold.beer/",
+    "menuUrl": "https://www.twofold.beer/menu",
+    "highChairs": "unknown",
+    "highChairSource": null,
+    "highChairCheckedAt": null,
+    "dishes": [
+      {
+        "name": "Garlic Mushrooms",
+        "vegan": true,
+        "glutenFree": true,
+        "modifications": null,
+        "evidenceUrl": "https://goby-finch-hhw7.squarespace.com/menu",
+        "excerpt": "Garlic mushrooms, mushroom medley, garlic cream (VG, GF). Menu legend expands VG as vegan and GF as gluten friendly.",
+        "checkedAt": "2026-10-09",
+        "status": "menu-supported"
+      }
+    ],
+    "notes": "The menu calls GF 'gluten friendly'; recorded as the venue's explicit GF label. Menu says items/pricing may change."
+  },
+  {
+    "id": "mondays-wholefoods",
+    "name": "Mondays Wholefoods",
+    "address": "503 New North Road, Auckland 1021",
+    "suburb": "Kingsland",
+    "types": [
+      "cafe",
+      "restaurant"
+    ],
+    "lat": null,
+    "lng": null,
+    "website": null,
+    "menuUrl": "https://www.ubereats.com/nz/store/mondays-wholefoods/JAbmDPgbQNGGFylbJkAILg",
+    "highChairs": "unknown",
+    "highChairSource": null,
+    "highChairCheckedAt": null,
+    "dishes": [
+      {
+        "name": "Revive Bowl",
+        "vegan": true,
+        "glutenFree": true,
+        "modifications": null,
+        "evidenceUrl": "https://www.ubereats.com/nz/store/mondays-wholefoods/JAbmDPgbQNGGFylbJkAILg",
+        "excerpt": "Revive Bowl (VG)(GF): black sticky rice, basil-infused coconut cream, raspberry coulis, granola and berries; described vegan and gluten free.",
+        "checkedAt": "2026-10-09",
+        "status": "menu-supported"
+      },
+      {
+        "name": "Sunshine Waffles",
+        "vegan": true,
+        "glutenFree": true,
+        "modifications": null,
+        "evidenceUrl": "https://www.ubereats.com/nz/store/mondays-wholefoods/JAbmDPgbQNGGFylbJkAILg",
+        "excerpt": "Sunshine Waffles (VG)(GF): buckwheat waffles with mango and coconut ambrosia, pineapple and vegan meringue.",
+        "checkedAt": "2026-10-09",
+        "status": "menu-supported"
+      }
+    ],
+    "notes": "Current delivery-menu listing is the source for address and dish details; check availability before visiting."
+  },
+  {
+    "id": "janken-jervois",
+    "name": "Janken (Jervois Road)",
+    "address": "158 Jervois Road, Auckland 1011",
+    "suburb": "Herne Bay",
+    "types": [
+      "cafe",
+      "restaurant"
+    ],
+    "lat": null,
+    "lng": null,
+    "website": null,
+    "menuUrl": "https://www.ubereats.com/nz/store/janken-jervois-rd/QNcOpZL_TDqc_sRYq65Nmw",
+    "highChairs": "unknown",
+    "highChairSource": null,
+    "highChairCheckedAt": null,
+    "dishes": [
+      {
+        "name": "Probiotic Carrot Salad",
+        "vegan": true,
+        "glutenFree": true,
+        "modifications": null,
+        "evidenceUrl": "https://www.ubereats.com/nz/store/janken-jervois-rd/QNcOpZL_TDqc_sRYq65Nmw",
+        "excerpt": "Probiotic Carrot Salad (VG)(GF): shredded carrot, beetroot, garden salad, tamari-roasted seeds, quinoa and carrot-koji dressing; described vegan and gluten free.",
+        "checkedAt": "2026-10-09",
+        "status": "menu-supported"
+      }
+    ],
+    "notes": "Menu evidence from the Uber Eats listing for this branch."
+  },
+  {
+    "id": "banzai-dominion-road",
+    "name": "Banzai",
+    "address": "583 Dominion Road, Auckland 1041",
+    "suburb": "Mount Eden",
+    "types": [
+      "restaurant"
+    ],
+    "lat": null,
+    "lng": null,
+    "website": null,
+    "menuUrl": "https://www.ubereats.com/nz/store/banzai/JPAC5GTKToCFeju_gq3ktQ",
+    "highChairs": "unknown",
+    "highChairSource": null,
+    "highChairCheckedAt": null,
+    "dishes": [
+      {
+        "name": "Edamame",
+        "vegan": true,
+        "glutenFree": true,
+        "modifications": null,
+        "evidenceUrl": "https://www.ubereats.com/nz/store/banzai/JPAC5GTKToCFeju_gq3ktQ",
+        "excerpt": "Edamame (V, VE, GF), described as boiled and salted soybean pods.",
+        "checkedAt": "2026-10-09",
+        "status": "menu-supported"
+      },
+      {
+        "name": "Avocado Lovers Sushi Roll",
+        "vegan": true,
+        "glutenFree": true,
+        "modifications": null,
+        "evidenceUrl": "https://www.ubereats.com/nz/store/banzai/JPAC5GTKToCFeju_gq3ktQ",
+        "excerpt": "Avocado Lovers Sushi Roll (V, VE, GF), 8 pieces.",
+        "checkedAt": "2026-10-09",
+        "status": "menu-supported"
+      }
+    ],
+    "notes": "VE is the menu's vegan label as represented in the listed item; Uber Eats menu is the source."
+  },
+  {
+    "id": "bian-takapuna",
+    "name": "Bian Sushi & Donburi (Takapuna)",
+    "address": "33-45 Hurstmere Road, Takapuna, Auckland 0622",
+    "suburb": "Takapuna",
+    "types": [
+      "restaurant"
+    ],
+    "lat": null,
+    "lng": null,
+    "website": null,
+    "menuUrl": "https://www.ubereats.com/nz/store/bian-sushi-%26-donburi-takapuna/iLllvcu3TS6tZKqWFA_aMw",
+    "highChairs": "unknown",
+    "highChairSource": null,
+    "highChairCheckedAt": null,
+    "dishes": [
+      {
+        "name": "Avocado Roll",
+        "vegan": true,
+        "glutenFree": true,
+        "modifications": null,
+        "evidenceUrl": "https://www.ubereats.com/nz/store/bian-sushi-%26-donburi-takapuna/iLllvcu3TS6tZKqWFA_aMw",
+        "excerpt": "Avocado Roll (VG)(GF), listed as vegan and gluten free.",
+        "checkedAt": "2026-10-09",
+        "status": "menu-supported"
+      }
+    ],
+    "notes": "North Shore branch; menu listing provides address and item tags."
+  },
+  {
+    "id": "thirteen50-auckland-airport",
+    "name": "THIRTEEN50 Kitchen & Bar",
+    "address": "Novotel Auckland Airport, 35 Tom Pearce Drive, Auckland 2022",
+    "suburb": "Auckland Airport",
+    "types": [
+      "restaurant",
+      "pub"
+    ],
+    "lat": null,
+    "lng": null,
+    "website": "https://thirteen50kitchen.com/",
+    "menuUrl": "https://thirteen50kitchen.com/menu/all-day-grab/",
+    "highChairs": "unknown",
+    "highChairSource": null,
+    "highChairCheckedAt": null,
+    "dishes": [
+      {
+        "name": "Fresh Fruit Salad",
+        "vegan": true,
+        "glutenFree": true,
+        "modifications": null,
+        "evidenceUrl": "https://thirteen50kitchen.com/menu/all-day-grab/",
+        "excerpt": "Fresh fruit salad is labelled V, VG, GF and DF; legend defines VG as vegan and GF as gluten free.",
+        "checkedAt": "2026-10-09",
+        "status": "menu-supported"
+      }
+    ],
+    "notes": "Airport hotel restaurant. The menu notes shared production/serving environment and says it cannot guarantee complete omission of allergens."
+  },
+  {
+    "id": "gojo-new-lynn",
+    "name": "Gojo Ethiopian Eatery",
+    "address": "15 Totara Avenue, New Lynn, Auckland 0600",
+    "suburb": "New Lynn",
+    "types": [
+      "restaurant"
+    ],
+    "lat": null,
+    "lng": null,
+    "website": "https://gojoeatery.co.nz/",
+    "menuUrl": "https://gojoeatery.co.nz/",
+    "highChairs": "unknown",
+    "highChairSource": null,
+    "highChairCheckedAt": null,
+    "dishes": [
+      {
+        "name": "Beyaynetu vegan platter with GF injera",
+        "vegan": true,
+        "glutenFree": true,
+        "modifications": "Request gluten-free injera; the standard injera may contain gluten.",
+        "evidenceUrl": "https://www.happycow.net/reviews/gojo-ethiopian-eatery-auckland-318692",
+        "excerpt": "Third-party customer review reports a vegan platter with GF injera; this does not confirm current menu availability.",
+        "checkedAt": "2026-10-09",
+        "status": "needs-checking"
+      }
+    ],
+    "notes": "Venue page supports the vegan Beyaynetu platter, but the GF injera pairing is only in a third-party review and needs venue/menu confirmation. It is not a user visit report."
+  },
+  {
+    "id": "pickles-cafe-rosedale",
+    "name": "Pickles Cafe",
+    "address": "1 Antares Place, Rosedale, Auckland 0632",
+    "suburb": "Rosedale",
+    "types": [
+      "cafe",
+      "restaurant"
+    ],
+    "lat": null,
+    "lng": null,
+    "website": "https://picklescafe.co.nz/",
+    "menuUrl": "https://www.ubereats.com/nz/store/pickles-cafe/uD99MVUOQVOQoznpCkegCg",
+    "highChairs": "unknown",
+    "highChairSource": null,
+    "highChairCheckedAt": null,
+    "dishes": [
+      {
+        "name": "The Vegan Dish",
+        "vegan": true,
+        "glutenFree": true,
+        "modifications": null,
+        "evidenceUrl": "https://www.ubereats.com/nz/store/pickles-cafe/uD99MVUOQVOQoznpCkegCg",
+        "excerpt": "The Vegan Dish (Vegan, GF, DF): veggie rosti, pine nut, mushroom, roasted vegetables, salsa and edamame on beetroot puree.",
+        "checkedAt": "2026-10-09",
+        "status": "menu-supported"
+      }
+    ],
+    "notes": "Menu and branch address are shown in Uber Eats listing; cafe website establishes current venue brand."
+  },
+  {
+    "id": "postal-service-grey-lynn",
+    "name": "Postal Service Cafe",
+    "address": "537 Great North Road, Grey Lynn, Auckland 1021",
+    "suburb": "Grey Lynn",
+    "types": [
+      "cafe"
+    ],
+    "lat": null,
+    "lng": null,
+    "website": null,
+    "menuUrl": "https://www.ubereats.com/nz/store/postal-service-cafe/r9-Ex8ioS0q8UeMlfc5jHQ",
+    "highChairs": "available",
+    "highChairSource": "https://www.firsttable.co.nz/auckland/grey-lynn/postal-service",
+    "highChairCheckedAt": "2026-10-09",
+    "dishes": [
+      {
+        "name": "Postal Pancake",
+        "vegan": true,
+        "glutenFree": true,
+        "modifications": null,
+        "evidenceUrl": "https://www.ubereats.com/nz/store/postal-service-cafe/r9-Ex8ioS0q8UeMlfc5jHQ",
+        "excerpt": "Postal Pancake (VG)(GF)(DF): buckwheat and chia, coconut yogurt, blueberry compote and seasonal fruit; listing says vegan, gluten free and dairy free.",
+        "checkedAt": "2026-10-09",
+        "status": "menu-supported"
+      }
+    ],
+    "notes": "Address corroborated by Auckland visitor/city listings. First Table search-result venue listing explicitly reports highchairs available; its page denied direct opening during this research."
+  },
+  {
+    "id": "cafe-botannix-pakuranga",
+    "name": "Café Botannix Pakuranga",
+    "address": "Corner Pakuranga and Pigeon Mountain Roads, Pakuranga, Auckland",
+    "suburb": "Pakuranga",
+    "types": [
+      "cafe",
+      "restaurant"
+    ],
+    "lat": -36.89868626103177,
+    "lng": 174.9013736086174,
+    "website": "https://www.cafebotannix.co.nz/",
+    "menuUrl": "https://www.ubereats.com/nz/store/cafe-botannix-pakuranga/cznIdbvlRamUIk3mG4rUQg",
+    "highChairs": "unknown",
+    "highChairSource": null,
+    "highChairCheckedAt": null,
+    "dishes": [
+      {
+        "name": "Vegan Plate",
+        "vegan": true,
+        "glutenFree": true,
+        "modifications": null,
+        "evidenceUrl": "https://www.ubereats.com/nz/store/cafe-botannix-pakuranga/cznIdbvlRamUIk3mG4rUQg",
+        "excerpt": "Vegan Plate (VG)(GF)(DF), listed with potato rosti, hummus, tomato relish, avocado, spinach, roast tomato and almonds.",
+        "checkedAt": "2026-10-09",
+        "status": "menu-supported"
+      }
+    ],
+    "notes": "Official cafe locator provides the Pakuranga address and coordinates; dish comes from the Uber Eats branch menu."
+  },
+  {
+    "id": "ragtime-kingsland",
+    "name": "Ragtime Café",
+    "address": "467 New North Road, Kingsland, Auckland",
+    "suburb": "Kingsland",
+    "types": [
+      "cafe"
+    ],
+    "lat": null,
+    "lng": null,
+    "website": "https://www.ragtimecafe.co.nz/menu",
+    "menuUrl": "https://www.ragtimecafe.co.nz/menu",
+    "highChairs": "unknown",
+    "highChairSource": null,
+    "highChairCheckedAt": null,
+    "dishes": [
+      {
+        "name": "Vegan Vege Sandwich",
+        "vegan": true,
+        "glutenFree": true,
+        "modifications": "Request the gluten-free sandwich option.",
+        "evidenceUrl": "https://www.ragtimecafe.co.nz/menu",
+        "excerpt": "Menu labels the sandwich V (Vegan), lists avocado, tomato, red onion, carrot, greens and hummus; menu says any sandwich can be made gluten-free.",
+        "checkedAt": "2026-10-09",
+        "status": "menu-supported"
+      }
+    ],
+    "notes": "Official menu legend defines V as vegan and offers gluten-free preparation for any sandwich."
+  },
+  {
+    "id": "gorilla-kitchen-kroad",
+    "name": "Gorilla Kitchen K’Road",
+    "address": "146B Karangahape Road, Auckland 1010",
+    "suburb": "Auckland Central",
+    "types": [
+      "cafe",
+      "restaurant"
+    ],
+    "lat": null,
+    "lng": null,
+    "website": "https://www.gorillakitchen.nz/",
+    "menuUrl": "https://www.gorillakitchen.nz/online-ordering-1",
+    "highChairs": "unknown",
+    "highChairSource": null,
+    "highChairCheckedAt": null,
+    "dishes": [
+      {
+        "name": "Classic Hot Dog",
+        "vegan": true,
+        "glutenFree": false,
+        "modifications": null,
+        "evidenceUrl": "https://www.ubereats.com/nz/store/gorilla-kitchen-kroad-branch/ebZoohB7Tdmj_k6ZkdKoAQ",
+        "excerpt": "Classic Hot Dog with vegan sausage, caramelised onion, fried onion, tomato sauce and mustard; venue states all menu items are 100% vegan.",
+        "checkedAt": "2026-10-09",
+        "status": "menu-supported"
+      }
+    ],
+    "notes": "Current K’Road venue; the business site says its menu is entirely vegan."
+  },
+  {
+    "id": "khu-khu-ponsonby",
+    "name": "Khu Khu Eatery",
+    "address": "171A Ponsonby Road, Ponsonby, Auckland 1011",
+    "suburb": "Ponsonby",
+    "types": [
+      "restaurant"
+    ],
+    "lat": null,
+    "lng": null,
+    "website": "https://www.khukhu.co.nz/",
+    "menuUrl": "https://www.khukhu.co.nz/menu?menu=khu-khu-menu",
+    "highChairs": "unknown",
+    "highChairSource": null,
+    "highChairCheckedAt": null,
+    "dishes": [
+      {
+        "name": "Beef Up Massaman Curry",
+        "vegan": true,
+        "glutenFree": false,
+        "modifications": null,
+        "evidenceUrl": "https://www.khukhu.co.nz/menu?menu=khu-khu-menu",
+        "excerpt": "Tender vegan beef chunks in a rich curry with potato, red onion and cashew; the official menu identifies the range as 100% vegan.",
+        "checkedAt": "2026-10-09",
+        "status": "menu-supported"
+      }
+    ],
+    "notes": "The official menu identifies Khu Khu as 100% vegan. The Ponsonby, Milford, CBD and Parnell addresses are listed on the official menu/location pages."
+  },
+  {
+    "id": "khu-khu-milford",
+    "name": "Khu Khu Milford",
+    "address": "91 Kitchener Road, Milford, Auckland 0620",
+    "suburb": "Milford",
+    "types": [
+      "restaurant"
+    ],
+    "lat": null,
+    "lng": null,
+    "website": "https://www.khukhu.co.nz/milford-location",
+    "menuUrl": "https://www.khukhu.co.nz/menu?menu=khu-khu-menu",
+    "highChairs": "unknown",
+    "highChairSource": null,
+    "highChairCheckedAt": null,
+    "dishes": [
+      {
+        "name": "Beef Up Massaman Curry",
+        "vegan": true,
+        "glutenFree": false,
+        "modifications": null,
+        "evidenceUrl": "https://www.khukhu.co.nz/menu?menu=khu-khu-menu",
+        "excerpt": "Tender vegan beef chunks in a rich curry with potato, red onion and cashew; the official menu identifies the range as 100% vegan.",
+        "checkedAt": "2026-10-09",
+        "status": "menu-supported"
+      }
+    ],
+    "notes": "The official menu identifies Khu Khu as 100% vegan. The Ponsonby, Milford, CBD and Parnell addresses are listed on the official menu/location pages."
+  },
+  {
+    "id": "khu-khu-cbd",
+    "name": "Khu Khu CBD",
+    "address": "Shop 7, 23 Customs Street East, Auckland 1010",
+    "suburb": "Auckland Central",
+    "types": [
+      "restaurant"
+    ],
+    "lat": null,
+    "lng": null,
+    "website": "https://www.khukhu.co.nz/",
+    "menuUrl": "https://www.khukhu.co.nz/menu?menu=khu-khu-menu",
+    "highChairs": "unknown",
+    "highChairSource": null,
+    "highChairCheckedAt": null,
+    "dishes": [
+      {
+        "name": "Beef Up Massaman Curry",
+        "vegan": true,
+        "glutenFree": false,
+        "modifications": null,
+        "evidenceUrl": "https://www.khukhu.co.nz/menu?menu=khu-khu-menu",
+        "excerpt": "Tender vegan beef chunks in a rich curry with potato, red onion and cashew; the official menu identifies the range as 100% vegan.",
+        "checkedAt": "2026-10-09",
+        "status": "menu-supported"
+      }
+    ],
+    "notes": "The official menu identifies Khu Khu as 100% vegan. The Ponsonby, Milford, CBD and Parnell addresses are listed on the official menu/location pages."
+  },
+  {
+    "id": "khu-khu-parnell",
+    "name": "Khu Khu Parnell",
+    "address": "363 Parnell Road, Parnell, Auckland 1053",
+    "suburb": "Parnell",
+    "types": [
+      "restaurant"
+    ],
+    "lat": null,
+    "lng": null,
+    "website": "https://www.khukhu.co.nz/",
+    "menuUrl": "https://www.khukhu.co.nz/menu?menu=khu-khu-menu",
+    "highChairs": "unknown",
+    "highChairSource": null,
+    "highChairCheckedAt": null,
+    "dishes": [
+      {
+        "name": "Beef Up Massaman Curry",
+        "vegan": true,
+        "glutenFree": false,
+        "modifications": null,
+        "evidenceUrl": "https://www.khukhu.co.nz/menu?menu=khu-khu-menu",
+        "excerpt": "Tender vegan beef chunks in a rich curry with potato, red onion and cashew; the official menu identifies the range as 100% vegan.",
+        "checkedAt": "2026-10-09",
+        "status": "menu-supported"
+      }
+    ],
+    "notes": "The official menu identifies Khu Khu as 100% vegan. The Ponsonby, Milford, CBD and Parnell addresses are listed on the official menu/location pages."
+  },
+  {
+    "id": "revive-auckland-central",
+    "name": "Revive Café",
+    "address": "24 Wyndham Street, Auckland Central 1010",
+    "suburb": "Auckland Central",
+    "types": [
+      "cafe"
+    ],
+    "lat": null,
+    "lng": null,
+    "website": "https://www.revive.co.nz/",
+    "menuUrl": "https://www.revive.co.nz/pages/menu",
+    "highChairs": "unknown",
+    "highChairSource": null,
+    "highChairCheckedAt": null,
+    "dishes": [
+      {
+        "name": "Pumpkin & Kumara Balls with Satay Sauce",
+        "vegan": true,
+        "glutenFree": false,
+        "modifications": null,
+        "evidenceUrl": "https://www.revive.co.nz/pages/menu",
+        "excerpt": "On the 5–9 October 2026 menu; the venue states all items are vegan.",
+        "checkedAt": "2026-10-09",
+        "status": "menu-supported"
+      }
+    ],
+    "notes": "Official weekly menu marks ingredients containing gluten with (G); no gluten status asserted here."
+  },
+  {
+    "id": "khun-pun-albany",
+    "name": "Khun Pun Thai Restaurant",
+    "address": "5/7 Corinthian Drive, Albany, Auckland 0632",
+    "suburb": "Albany",
+    "types": [
+      "restaurant"
+    ],
+    "lat": null,
+    "lng": null,
+    "website": "https://khunpun.co.nz/",
+    "menuUrl": "https://khunpun.co.nz/vegan/",
+    "highChairs": "unknown",
+    "highChairSource": null,
+    "highChairCheckedAt": null,
+    "dishes": [
+      {
+        "name": "Vegan Pad Thai No Egg",
+        "vegan": true,
+        "glutenFree": false,
+        "modifications": null,
+        "evidenceUrl": "https://khunpun.co.nz/vegan/",
+        "excerpt": "Listed under the official Vegan / Vegetarian menu; tofu, vegan chicken or vegan duck choices.",
+        "checkedAt": "2026-10-09",
+        "status": "menu-supported"
+      }
+    ],
+    "notes": "GF is not asserted for this dish."
+  },
+  {
+    "id": "carmen-jones-kroad",
+    "name": "Carmen Jones",
+    "address": "382 Karangahape Road, Auckland Central 1010",
+    "suburb": "Auckland Central",
+    "types": [
+      "cafe",
+      "restaurant",
+      "pub"
+    ],
+    "lat": null,
+    "lng": null,
+    "website": "https://www.carmenjones.nz/",
+    "menuUrl": "https://www.carmenjones.nz/vegan-menu",
+    "highChairs": "unknown",
+    "highChairSource": null,
+    "highChairCheckedAt": null,
+    "dishes": [
+      {
+        "name": "Vegan People’s Pizza",
+        "vegan": true,
+        "glutenFree": false,
+        "modifications": null,
+        "evidenceUrl": "https://www.carmenjones.nz/vegan-menu",
+        "excerpt": "Appears in the official Vegan section; potato, mushroom, caramelised onion, paprika, rocket and coconut horseradish.",
+        "checkedAt": "2026-10-09",
+        "status": "menu-supported"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "swansons-cbd",
+    "name": "Swansons Sandwich Bar",
+    "address": "12–26 Swanson Street, Auckland Central 1010",
+    "suburb": "Auckland Central",
+    "types": [
+      "cafe"
+    ],
+    "lat": null,
+    "lng": null,
+    "website": "https://www.swansons.co.nz/",
+    "menuUrl": "https://www.swansons.co.nz/order/vegetarian",
+    "highChairs": "unknown",
+    "highChairSource": null,
+    "highChairCheckedAt": null,
+    "dishes": [
+      {
+        "name": "Raw Energy Salad",
+        "vegan": true,
+        "glutenFree": true,
+        "modifications": null,
+        "evidenceUrl": "https://www.swansons.co.nz/order/vegetarian",
+        "excerpt": "Official order menu describes it as gluten free, dairy free, vegetarian and vegan.",
+        "checkedAt": "2026-10-09",
+        "status": "menu-supported"
+      }
+    ],
+    "notes": "Menu page identifies the café in Auckland CBD; street number was not exposed in the retrieved menu, so the address is kept to street/suburb level."
+  },
+  {
+    "id": "guan-cafe-huntington-park",
+    "name": "Guan Cafe",
+    "address": "2A Amera Place, Huntington Park, Auckland 2013",
+    "suburb": "Huntington Park",
+    "types": [
+      "cafe",
+      "restaurant"
+    ],
+    "lat": null,
+    "lng": null,
+    "website": "https://www.guancafe.co.nz/",
+    "menuUrl": "https://www.guancafe.co.nz/menu",
+    "highChairs": "unknown",
+    "highChairSource": null,
+    "highChairCheckedAt": null,
+    "dishes": [
+      {
+        "name": "Guan’s Housemade Pie",
+        "vegan": true,
+        "glutenFree": false,
+        "modifications": null,
+        "evidenceUrl": "https://www.guancafe.co.nz/menu",
+        "excerpt": "Official menu description says creamy corn, spinach and pumpkin, vegan vegetable curry; served with chips and side salad.",
+        "checkedAt": "2026-10-09",
+        "status": "menu-supported"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "portage-bar-riverhead",
+    "name": "The Portage Bar at The Riverhead",
+    "address": "33 York Terrace, Riverhead, Auckland 0820",
+    "suburb": "Riverhead",
+    "types": [
+      "pub",
+      "gastropub",
+      "restaurant"
+    ],
+    "lat": null,
+    "lng": null,
+    "website": "https://www.theriverhead.co.nz/",
+    "menuUrl": "https://www.theriverhead.co.nz/portage-bar-menu",
+    "highChairs": "unknown",
+    "highChairSource": null,
+    "highChairCheckedAt": null,
+    "dishes": [
+      {
+        "name": "Pan-Fried Dumplings",
+        "vegan": true,
+        "glutenFree": false,
+        "modifications": null,
+        "evidenceUrl": "https://www.theriverhead.co.nz/portage-bar-menu",
+        "excerpt": "Official menu describes vegetable-filled dumplings with sesame soy ponzu, scallions, cashew, chilli and coriander oil; explicitly labelled vegan.",
+        "checkedAt": "2026-10-09",
+        "status": "menu-supported"
+      }
+    ],
+    "notes": "West Auckland pub restaurant; menu’s dfi label is dairy-free option and does not establish gluten-free status."
+  },
+  {
+    "id": "bowld-west-city",
+    "name": "BOWL’D West City",
+    "address": "WestCity Mall, Catherine Street and Edsel Street, Henderson, Auckland 0612",
+    "suburb": "Henderson",
+    "types": [
+      "restaurant"
+    ],
+    "lat": null,
+    "lng": null,
+    "website": null,
+    "menuUrl": "https://www.ubereats.com/nz/store/bowld-west-city-dup/vrWEn236W2KadsSvJR9P1Q",
+    "highChairs": "unknown",
+    "highChairSource": null,
+    "highChairCheckedAt": null,
+    "dishes": [
+      {
+        "name": "Vegan Donburi Bowl",
+        "vegan": true,
+        "glutenFree": true,
+        "modifications": null,
+        "evidenceUrl": "https://www.ubereats.com/nz/store/bowld-west-city-dup/vrWEn236W2KadsSvJR9P1Q",
+        "excerpt": "Menu labels this (gf, v, vg): teriyaki broccoli, rice, cabbage, edamame, pickled ginger, bean sprouts, vegan mayo and sesame; notes trace gluten may be present in the shared kitchen.",
+        "checkedAt": "2026-10-09",
+        "status": "menu-supported"
+      }
+    ],
+    "notes": "Address at WestCity Mall/Henderson. Menu explicitly notes potential trace gluten in shared preparation."
+  },
+  {
+    "id": "sunflower-thai-cbd",
+    "name": "Sunflower Thai Vegetarian Restaurant",
+    "address": "Shop 6, 50 High Street, Auckland 1010",
+    "suburb": "Auckland Central",
+    "types": [
+      "restaurant"
+    ],
+    "lat": null,
+    "lng": null,
+    "website": "https://heartofthecity.co.nz/dining/vegan-vegetarian/sunflower-thai-vegetarian-restaurant",
+    "menuUrl": "https://www.ubereats.com/nz/store/sunflower-thai-vegetarian/bw_y1rRLSkOdd-S2GGlSfA",
+    "highChairs": "unknown",
+    "highChairSource": null,
+    "highChairCheckedAt": null,
+    "dishes": [
+      {
+        "name": "Kumara Vegan Curry Puff",
+        "vegan": true,
+        "glutenFree": false,
+        "modifications": null,
+        "evidenceUrl": "https://www.ubereats.com/nz/store/sunflower-thai-vegetarian/bw_y1rRLSkOdd-S2GGlSfA",
+        "excerpt": "Current ordering menu calls this a vegan curry puff; sweet plum sauce.",
+        "checkedAt": "2026-10-09",
+        "status": "menu-supported"
+      }
+    ],
+    "notes": "Heart of the City states the restaurant serves 100% vegan food."
+  },
+  {
+    "id": "mudita-ponsonby",
+    "name": "Mudita",
+    "address": "234 Ponsonby Road, Ponsonby, Auckland 1011",
+    "suburb": "Ponsonby",
+    "types": [
+      "cafe",
+      "restaurant"
+    ],
+    "lat": null,
+    "lng": null,
+    "website": "https://www.mudita.co.nz/",
+    "menuUrl": "https://www.mudita.co.nz/collections/all",
+    "highChairs": "unknown",
+    "highChairSource": null,
+    "highChairCheckedAt": null,
+    "dishes": [
+      {
+        "name": "Vegan Cookies",
+        "vegan": true,
+        "glutenFree": false,
+        "modifications": null,
+        "evidenceUrl": "https://www.mudita.co.nz/collections/all",
+        "excerpt": "Official shop listing includes Vegan Cookies; Mudita describes its dining and bakery as vegan.",
+        "checkedAt": "2026-10-09",
+        "status": "menu-supported"
+      }
+    ],
+    "notes": "Business is vegan; official product listing explicitly labels the cookie item vegan. Address corroborated by current venue listing."
+  },
+  {
+    "id": "mokonui-cafe-auckland-zoo",
+    "name": "Mokonui Café (The Watering Hole)",
+    "address": "Auckland Zoo, 99 Motions Road, Western Springs, Auckland 1022",
+    "suburb": "Western Springs",
+    "types": [
+      "cafe"
+    ],
+    "lat": null,
+    "lng": null,
+    "website": "https://www.aucklandzoo.co.nz/visit/food-and-drink",
+    "menuUrl": "https://cdn.aucklandunlimited.com/zoo/assets/media/azoo-cafes-menus-and-pricing-all-online-menus-late-2025-update-mokonui.pdf",
+    "highChairs": "unknown",
+    "highChairSource": null,
+    "highChairCheckedAt": null,
+    "dishes": [
+      {
+        "name": "Vegan Burger",
+        "vegan": true,
+        "glutenFree": true,
+        "modifications": null,
+        "evidenceUrl": "https://cdn.aucklandunlimited.com/zoo/assets/media/azoo-cafes-menus-and-pricing-all-online-menus-late-2025-update-mokonui.pdf",
+        "excerpt": "Zoo menu lists Vegan burger (vg*, d, g): crumbed eggplant, vegan cheese, lettuce, tomato, avocado and vegan mayo; g means made without gluten.",
+        "checkedAt": "2026-10-09",
+        "status": "menu-supported"
+      }
+    ],
+    "notes": "Menu legend says vegan and made-without-gluten; asterisk notes food may be cooked in oil also used for non-plant-based food."
+  },
+  {
+    "id": "te-puna-cafe-auckland-zoo",
+    "name": "Te Puna Café",
+    "address": "Auckland Zoo, 99 Motions Road, Western Springs, Auckland 1022",
+    "suburb": "Western Springs",
+    "types": [
+      "cafe"
+    ],
+    "lat": null,
+    "lng": null,
+    "website": "https://www.aucklandzoo.co.nz/te-puna",
+    "menuUrl": "https://cdn.aucklandunlimited.com/zoo/assets/media/azoo-cafes-menus-and-pricing-all-online-menus-late-2025-update-te-puna.pdf",
+    "highChairs": "unknown",
+    "highChairSource": null,
+    "highChairCheckedAt": null,
+    "dishes": [
+      {
+        "name": "Chia Coconut Pudding",
+        "vegan": true,
+        "glutenFree": true,
+        "modifications": null,
+        "evidenceUrl": "https://cdn.aucklandunlimited.com/zoo/assets/media/azoo-cafes-menus-and-pricing-all-online-menus-late-2025-update-te-puna.pdf",
+        "excerpt": "Official café menu labels the pudding (g, vg); legend defines g as made without gluten and vg as vegan.",
+        "checkedAt": "2026-10-09",
+        "status": "menu-supported"
+      }
+    ],
+    "notes": "Menu notes some items may be cooked in oil also used for non-plant-based food."
+  },
+  {
+    "id": "wetapunga-cafe-auckland-zoo",
+    "name": "Wētāpunga Café",
+    "address": "Auckland Zoo entrance, 99 Motions Road, Western Springs, Auckland 1022",
+    "suburb": "Western Springs",
+    "types": [
+      "cafe"
+    ],
+    "lat": null,
+    "lng": null,
+    "website": "https://www.aucklandzoo.co.nz/wetapunga-cafe",
+    "menuUrl": "https://cdn.aucklandunlimited.com/zoo/assets/media/azoo-cafes-menus-and-pricing-all-online-menus-late-2025-update-wetapunga.pdf",
+    "highChairs": "unknown",
+    "highChairSource": null,
+    "highChairCheckedAt": null,
+    "dishes": [
+      {
+        "name": "Chia Coconut Pudding",
+        "vegan": true,
+        "glutenFree": true,
+        "modifications": null,
+        "evidenceUrl": "https://cdn.aucklandunlimited.com/zoo/assets/media/azoo-cafes-menus-and-pricing-all-online-menus-late-2025-update-wetapunga.pdf",
+        "excerpt": "Official café menu labels the pudding (g, vg); legend defines g as made without gluten and vg as vegan.",
+        "checkedAt": "2026-10-09",
+        "status": "menu-supported"
+      }
+    ],
+    "notes": "Cafe is just outside the Zoo entrance gate. Menu is late-2025 update and may be seasonal."
+  },
+  {
+    "id": "tiger-bar-mount-roskill",
+    "name": "Tiger Bar & Restaurant",
+    "address": "SOHO Hotel, 180 Stoddard Road, Auckland 1041",
+    "suburb": "Mount Roskill",
+    "types": [
+      "restaurant",
+      "pub"
+    ],
+    "lat": null,
+    "lng": null,
+    "website": "https://www.tigeratsoho.co.nz/",
+    "menuUrl": "https://www.tigeratsoho.co.nz/menu",
+    "highChairs": "unknown",
+    "highChairSource": null,
+    "highChairCheckedAt": null,
+    "dishes": [
+      {
+        "name": "Tiger’s Iconic Fried Cauliflower",
+        "vegan": true,
+        "glutenFree": false,
+        "modifications": null,
+        "evidenceUrl": "https://www.tigeratsoho.co.nz/menu",
+        "excerpt": "Official menu marks the cauliflower with [vg, df] and defines vg as vegan.",
+        "checkedAt": "2026-10-09",
+        "status": "menu-supported"
+      }
+    ],
+    "notes": "High-chair availability was not confirmed in the retrieved source."
+  },
+  {
+    "id": "vondel-devonport",
+    "name": "Vondel",
+    "address": "8 Victoria Road, Auckland 0624",
+    "suburb": "Devonport",
+    "types": [
+      "restaurant",
+      "pub"
+    ],
+    "lat": null,
+    "lng": null,
+    "website": "https://www.vondel.co.nz/",
+    "menuUrl": "https://www.vondel.co.nz/menu",
+    "highChairs": "unknown",
+    "highChairSource": null,
+    "highChairCheckedAt": null,
+    "dishes": [
+      {
+        "name": "Vegan fried chicken burger",
+        "vegan": true,
+        "glutenFree": false,
+        "modifications": null,
+        "evidenceUrl": "https://www.vondel.co.nz/menu",
+        "excerpt": "Winter 2026 menu labels the vegan fried chicken burger (vg); toppings include gochujang, slaw, pickles and burger sauce.",
+        "checkedAt": "2026-10-09",
+        "status": "menu-supported"
+      }
+    ],
+    "notes": "High-chair availability was not confirmed in the retrieved source."
+  },
+  {
+    "id": "the-banker-east-tamaki",
+    "name": "The Banker",
+    "address": "60 Highbrook Drive, East Tāmaki, Auckland 2013",
+    "suburb": "East Tāmaki",
+    "types": [
+      "cafe",
+      "restaurant",
+      "pub"
+    ],
+    "lat": null,
+    "lng": null,
+    "website": "https://thebanker.co.nz/",
+    "menuUrl": "https://thebanker.co.nz/menu/",
+    "highChairs": "unknown",
+    "highChairSource": null,
+    "highChairCheckedAt": null,
+    "dishes": [
+      {
+        "name": "Italian Avo & Garden Toast",
+        "vegan": true,
+        "glutenFree": false,
+        "modifications": null,
+        "evidenceUrl": "https://thebanker.co.nz/menu/",
+        "excerpt": "Menu marks this as VG (vegan) and lists avocado, tomato pesto, tomatoes, pistachios and balsamic glaze.",
+        "checkedAt": "2026-10-09",
+        "status": "menu-supported"
+      }
+    ],
+    "notes": "High-chair availability was not confirmed in the retrieved source."
+  },
+  {
+    "id": "bellini-auckland-cbd",
+    "name": "Bellini",
+    "address": "Ground Floor, Hilton Auckland, Princes Wharf, 147 Quay Street, Auckland",
+    "suburb": "Auckland Central",
+    "types": [
+      "restaurant"
+    ],
+    "lat": null,
+    "lng": null,
+    "website": "https://bellini.co.nz/",
+    "menuUrl": "https://bellini.co.nz/menu/",
+    "highChairs": "unknown",
+    "highChairSource": null,
+    "highChairCheckedAt": null,
+    "dishes": [
+      {
+        "name": "Mediterranean Wellness Bowl",
+        "vegan": true,
+        "glutenFree": false,
+        "modifications": null,
+        "evidenceUrl": "https://bellini.co.nz/menu/",
+        "excerpt": "Menu labels it VG and describes roasted vegetables, chickpeas, rocket, baby spinach and quinoa.",
+        "checkedAt": "2026-10-09",
+        "status": "menu-supported"
+      }
+    ],
+    "notes": "High-chair availability was not confirmed in the retrieved source."
+  },
+  {
+    "id": "queens-head-auckland-cbd",
+    "name": "Queen’s Head Bar & Eatery",
+    "address": "Four Points by Sheraton, 396 Queen Street, Auckland 1010",
+    "suburb": "Auckland Central",
+    "types": [
+      "pub",
+      "restaurant"
+    ],
+    "lat": null,
+    "lng": null,
+    "website": "https://www.queensheadbar.co.nz/",
+    "menuUrl": "https://www.queensheadbar.co.nz/our-menus",
+    "highChairs": "unknown",
+    "highChairSource": null,
+    "highChairCheckedAt": null,
+    "dishes": [
+      {
+        "name": "Mr. Hou’s Vegetable Dumpling",
+        "vegan": true,
+        "glutenFree": false,
+        "modifications": null,
+        "evidenceUrl": "https://www.queensheadbar.co.nz/our-menus",
+        "excerpt": "All-day menu marks the vegetable dumplings (vg), defined as vegan; served with crispy shallot, chilli oil, soya and sesame.",
+        "checkedAt": "2026-10-09",
+        "status": "menu-supported"
+      }
+    ],
+    "notes": "High-chair availability was not confirmed in the retrieved source."
+  },
+  {
+    "id": "westie-bistro-glendene",
+    "name": "Westie Bistro",
+    "address": "202 Great North Road, Glendene, Auckland",
+    "suburb": "Glendene",
+    "types": [
+      "cafe",
+      "restaurant"
+    ],
+    "lat": null,
+    "lng": null,
+    "website": "https://www.westiebistro.co.nz/",
+    "menuUrl": "https://www.westiebistro.co.nz/uploads/1/3/6/2/136289510/official_dinner_menu_sep24.pdf",
+    "highChairs": "unknown",
+    "highChairSource": null,
+    "highChairCheckedAt": null,
+    "dishes": [
+      {
+        "name": "Crispy Cauli-Broccoli",
+        "vegan": true,
+        "glutenFree": true,
+        "modifications": null,
+        "evidenceUrl": "https://www.westiebistro.co.nz/uploads/1/3/6/2/136289510/official_dinner_menu_sep24.pdf",
+        "excerpt": "The Sep 2024 dinner PDF labels this VGN and GF. This menu may be out of date; current availability needs checking.",
+        "checkedAt": "2026-10-09",
+        "status": "needs-checking"
+      }
+    ],
+    "notes": "High-chair availability was not confirmed in the retrieved source."
+  },
+  {
+    "id": "auckland-art-gallery-cafe",
+    "name": "Auckland Art Gallery Café",
+    "address": "Auckland Art Gallery, Level 1, corner Wellesley Street East and Kitchener Street, Auckland 1010",
+    "suburb": "Auckland Central",
+    "types": [
+      "cafe"
+    ],
+    "lat": null,
+    "lng": null,
+    "website": "https://www.aucklandartgallery.com/visit/cafe",
+    "menuUrl": "https://cdn.aucklandunlimited.com/artgallery/assets/media/auckland-art-gallery-cafe-menu-may-2025.pdf",
+    "highChairs": "unknown",
+    "highChairSource": null,
+    "highChairCheckedAt": null,
+    "dishes": [
+      {
+        "name": "Vegan Haven",
+        "vegan": true,
+        "glutenFree": false,
+        "modifications": null,
+        "evidenceUrl": "https://cdn.aucklandunlimited.com/artgallery/assets/media/auckland-art-gallery-cafe-menu-may-2025.pdf",
+        "excerpt": "May 2025 menu marks Vegan Haven (V | VE); a GF bagel substitute is available on request, but is not tied specifically to this dish. Menu date is old; current availability needs checking.",
+        "checkedAt": "2026-10-09",
+        "status": "needs-checking"
+      }
+    ],
+    "notes": "High-chair availability was not confirmed in the retrieved source."
+  },
+  {
+    "id": "pink-broccoli-remuera",
+    "name": "Pink Broccoli",
+    "address": "614 Remuera Road, Remuera, Auckland 1050",
+    "suburb": "Remuera",
+    "types": [
+      "cafe"
+    ],
+    "lat": null,
+    "lng": null,
+    "website": "https://www.pinkbroccoli.nz/",
+    "menuUrl": "https://www.pinkbroccoli.nz/",
+    "highChairs": "unknown",
+    "highChairSource": null,
+    "highChairCheckedAt": null,
+    "dishes": [
+      {
+        "name": "Vegan Your Way",
+        "vegan": true,
+        "glutenFree": false,
+        "modifications": null,
+        "evidenceUrl": "https://www.pinkbroccoli.nz/",
+        "excerpt": "Menu labels the tofu scramble on sourdough (vg), with tomato relish; optional vegan chilli scramble.",
+        "checkedAt": "2026-10-09",
+        "status": "menu-supported"
+      }
+    ],
+    "notes": "High-chair availability was not confirmed in the retrieved source."
+  },
+  {
+    "id": "amble-birch-manukau",
+    "name": "Amble + Birch",
+    "address": "88 Plunket Avenue, Manukau, Auckland",
+    "suburb": "Manukau",
+    "types": [
+      "cafe"
+    ],
+    "lat": null,
+    "lng": null,
+    "website": "https://www.ambleandbirchcafe.co.nz/",
+    "menuUrl": "https://www.ambleandbirchcafe.co.nz/menu",
+    "highChairs": "unknown",
+    "highChairSource": null,
+    "highChairCheckedAt": null,
+    "dishes": [
+      {
+        "name": "Spiced infused kumara koftas",
+        "vegan": true,
+        "glutenFree": false,
+        "modifications": null,
+        "evidenceUrl": "https://www.ambleandbirchcafe.co.nz/menu",
+        "excerpt": "Menu labels the koftas (vegan) and lists coconut korma, flatbread and pickled root salad.",
+        "checkedAt": "2026-10-09",
+        "status": "menu-supported"
+      }
+    ],
+    "notes": "High-chair availability was not confirmed in the retrieved source."
+  },
+  {
+    "id": "onslow-auckland-cbd",
+    "name": "Onslow",
+    "address": "9 Princes Street, Auckland 1010",
+    "suburb": "Auckland Central",
+    "types": [
+      "restaurant"
+    ],
+    "lat": null,
+    "lng": null,
+    "website": "https://www.onslow.nz/",
+    "menuUrl": "https://www.onslow.nz/menu/lunch-copy/",
+    "highChairs": "unknown",
+    "highChairSource": null,
+    "highChairCheckedAt": null,
+    "dishes": [
+      {
+        "name": "Beetroot Tartar",
+        "vegan": true,
+        "glutenFree": false,
+        "modifications": null,
+        "evidenceUrl": "https://www.onslow.nz/menu/lunch-copy/",
+        "excerpt": "Listed under the venue’s sample Vegan Menu: beetroot tartar, walnuts and olive oil.",
+        "checkedAt": "2026-10-09",
+        "status": "menu-supported"
+      }
+    ],
+    "notes": "High-chair availability was not confirmed in the retrieved source."
+  },
+  {
+    "id": "andsushi-newmarket",
+    "name": "&Sushi — Newmarket",
+    "address": "12 Teed Street, Newmarket, Auckland 1023",
+    "suburb": "Newmarket",
+    "types": [
+      "cafe",
+      "restaurant"
+    ],
+    "lat": null,
+    "lng": null,
+    "website": "https://www.andsushi.co.nz/",
+    "menuUrl": "https://www.andsushi.co.nz/andsushi-menu",
+    "highChairs": "unknown",
+    "highChairSource": null,
+    "highChairCheckedAt": null,
+    "dishes": [
+      {
+        "name": "Teriyaki Tofu Yakisoba",
+        "vegan": true,
+        "glutenFree": false,
+        "modifications": null,
+        "evidenceUrl": "https://www.andsushi.co.nz/",
+        "excerpt": "Official menu calls this item (VG); the site lists the Newmarket location at 12 Teed Street.",
+        "checkedAt": "2026-10-09",
+        "status": "menu-supported"
+      }
+    ],
+    "notes": "High-chair availability was not confirmed in the retrieved source."
+  },
+  {
+    "id": "andsushi-city-works-depot",
+    "name": "&Sushi — City Works Depot",
+    "address": "Shed 4A, City Works Depot, 90 Wellesley Street West, Auckland 1010",
+    "suburb": "Auckland Central",
+    "types": [
+      "cafe",
+      "restaurant"
+    ],
+    "lat": null,
+    "lng": null,
+    "website": "https://www.andsushi.co.nz/",
+    "menuUrl": "https://www.andsushi.co.nz/andsushi-menu",
+    "highChairs": "unknown",
+    "highChairSource": null,
+    "highChairCheckedAt": null,
+    "dishes": [
+      {
+        "name": "Teriyaki Tofu Yakisoba",
+        "vegan": true,
+        "glutenFree": false,
+        "modifications": null,
+        "evidenceUrl": "https://www.andsushi.co.nz/",
+        "excerpt": "Official menu calls this item (VG); the site lists City Works Depot at Shed 4A, 90 Wellesley Street West.",
+        "checkedAt": "2026-10-09",
+        "status": "menu-supported"
+      }
+    ],
+    "notes": "High-chair availability was not confirmed in the retrieved source."
+  },
+  {
+    "id": "andsushi-eastridge",
+    "name": "&Sushi — Eastridge",
+    "address": "Eastridge Shopping Centre, 215 Kepa Road, Mission Bay, Auckland 1071",
+    "suburb": "Mission Bay",
+    "types": [
+      "cafe",
+      "restaurant"
+    ],
+    "lat": null,
+    "lng": null,
+    "website": "https://www.andsushi.co.nz/",
+    "menuUrl": "https://www.andsushi.co.nz/andsushi-menu",
+    "highChairs": "unknown",
+    "highChairSource": null,
+    "highChairCheckedAt": null,
+    "dishes": [
+      {
+        "name": "Teriyaki Tofu Yakisoba",
+        "vegan": true,
+        "glutenFree": false,
+        "modifications": null,
+        "evidenceUrl": "https://www.andsushi.co.nz/",
+        "excerpt": "Official menu calls this item (VG); the site lists Eastridge Shopping Centre at 215 Kepa Road.",
+        "checkedAt": "2026-10-09",
+        "status": "menu-supported"
+      }
+    ],
+    "notes": "High-chair availability was not confirmed in the retrieved source."
+  },
+  {
+    "id": "andsushi-smales-farm",
+    "name": "&Sushi — Smales Farm",
+    "address": "Unit D, Goodside, Smales Farm, 72 Taharoto Road, Takapuna, Auckland 0622",
+    "suburb": "Takapuna",
+    "types": [
+      "cafe",
+      "restaurant"
+    ],
+    "lat": null,
+    "lng": null,
+    "website": "https://www.andsushi.co.nz/",
+    "menuUrl": "https://www.andsushi.co.nz/andsushi-menu",
+    "highChairs": "unknown",
+    "highChairSource": null,
+    "highChairCheckedAt": null,
+    "dishes": [
+      {
+        "name": "Teriyaki Tofu Yakisoba",
+        "vegan": true,
+        "glutenFree": false,
+        "modifications": null,
+        "evidenceUrl": "https://www.andsushi.co.nz/",
+        "excerpt": "Official menu calls this item (VG); the site lists the Smales Farm Goodside location at 72 Taharoto Road.",
+        "checkedAt": "2026-10-09",
+        "status": "menu-supported"
+      }
+    ],
+    "notes": "High-chair availability was not confirmed in the retrieved source."
+  },
+  {
+    "id": "andsushi-carlton-gore",
+    "name": "&Sushi — Carlton Gore",
+    "address": "123 Carlton Gore Road, Newmarket, Auckland",
+    "suburb": "Newmarket",
+    "types": [
+      "cafe",
+      "restaurant"
+    ],
+    "lat": null,
+    "lng": null,
+    "website": "https://www.andsushi.co.nz/",
+    "menuUrl": "https://www.andsushi.co.nz/andsushi-menu",
+    "highChairs": "unknown",
+    "highChairSource": null,
+    "highChairCheckedAt": null,
+    "dishes": [
+      {
+        "name": "Teriyaki Tofu Yakisoba",
+        "vegan": true,
+        "glutenFree": false,
+        "modifications": null,
+        "evidenceUrl": "https://www.andsushi.co.nz/",
+        "excerpt": "Official menu calls this item (VG); the site lists the Carlton Gore location at 123 Carlton Gore Road.",
+        "checkedAt": "2026-10-09",
+        "status": "menu-supported"
+      }
+    ],
+    "notes": "High-chair availability was not confirmed in the retrieved source."
+  }
+]
